@@ -1,2 +1,3 @@
 # LoLAnalysis
-Analysis on competitive League of Legends 
+Analysis for competitive League of Legends 
+
